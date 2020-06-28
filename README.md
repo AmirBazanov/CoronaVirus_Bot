@@ -1,5 +1,5 @@
 # CoronaVirus_Bot
-<b><center>=============================================INSTALL=============================================</center></b>
+<b><label>INSTALL</label></b>
 
 
 <u>>>>pip3 install -r requirements.txt</u>
