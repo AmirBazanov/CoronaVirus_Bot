@@ -118,7 +118,7 @@ def getMessage():
 @server.route("/")
 def web_hook():
 	bot.remove_webhook()
-	bot.set_webhook(url='https://8e5ba1174a2e.ngrok.io/' + TOKEN)
+	bot.set_webhook(url='https://coronavirusbotam.herokuapp.com/' + TOKEN)
 	return "!", 200
 
 
