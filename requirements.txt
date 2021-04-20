@@ -18,7 +18,7 @@ nodeenv==1.4.0
 packaging==20.4
 pluggy==0.13.1
 pre-commit==2.6.0
-py==1.9.0
+py==1.10.0
 pydantic==1.6.1
 pyparsing==2.4.7
 pyTelegramBotAPI==3.7.2
