@@ -29,7 +29,7 @@ soupsieve==2.0.1
 toml==0.10.1
 tox==3.18.0
 translate==3.5.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.27
 Werkzeug==1.0.1
 Flask-SSLify==0.1.5
